@@ -6,7 +6,7 @@ from constants import RECIPIENTS  # Import the RECIPIENTS list
 ses_client = boto3.client('ses', region_name='us-east-1')
 
 # Specify the sender's email address
-SENDER = "sender@example.com"
+SENDER = "garvit@webplause.com"
 AWS_REGION = "us-east-1"
 
 # The subject line for the email

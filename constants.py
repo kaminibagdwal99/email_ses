@@ -1,7 +1,7 @@
 # constants.py
 
 RECIPIENTS = [
-    "recipient1@example.com",
-    "recipient2@example.com",
-    "recipient3@example.com",
+    "garvitjaira11@gmail.com",
+    "kaminibagdwal16@gmail.com",
+   
 ]
